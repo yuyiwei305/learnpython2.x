@@ -15,9 +15,9 @@ def fib(max):
 		b=b+a
 		a=temp
 		n=n+1
-fib(6)
-'''c = int(raw_input("pls a max num: ")
-fib(c)'''
+
+c = int(raw_input("pls a max num: "))
+fib(c)
 
 
 
